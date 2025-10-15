@@ -22,3 +22,4 @@
 | 16             | Brentford        | 13.43           |
 | 17             | Nottingham Forest| 13.54           |
 
+https://prasannashrestha011.github.io/PL_prediction_2025-26-season/static/epl_match_outcome_prediction_.html
